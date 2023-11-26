@@ -3,7 +3,7 @@
 This project allows you to retrieve cat images associated with different HTTP error codes.
 Enjoy a fun and entertaining way to visualize HTTP errors with adorable cat pictures.
 
-[![HTTP Cats API Preview](https://i.postimg.cc/SKJBN6k8/image.png)](https://postimg.cc/QBZ4fWBx)
+[![HTTP Cats API Preview](https://i.postimg.cc/qRzZC72c/image.png)](https://postimg.cc/MMJYCqPX)
 
 ## Getting Started
 

@@ -63,7 +63,4 @@ $font: 'JetBrains Mono', monospace;
 **License:**
 This project is licensed under the MIT License.
 
-**Contact:**
-For questions or suggestions, you can contact GogaNotClown via GitHub.
-
 Enjoy Cats!
